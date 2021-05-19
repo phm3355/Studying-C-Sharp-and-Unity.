@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Park\\Source\\Repos\\Studying-C-Sharp-and-Unity\\CSharp.csproj": {}
+    "C:\\Users\\Park\\source\\repos\\Studying-C-Sharp-and-Unity\\CSharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Park\\Source\\Repos\\Studying-C-Sharp-and-Unity\\CSharp.csproj": {
+    "C:\\Users\\Park\\source\\repos\\Studying-C-Sharp-and-Unity\\CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Park\\Source\\Repos\\Studying-C-Sharp-and-Unity\\CSharp.csproj",
+        "projectUniqueName": "C:\\Users\\Park\\source\\repos\\Studying-C-Sharp-and-Unity\\CSharp.csproj",
         "projectName": "CSharp",
-        "projectPath": "C:\\Users\\Park\\Source\\Repos\\Studying-C-Sharp-and-Unity\\CSharp.csproj",
+        "projectPath": "C:\\Users\\Park\\source\\repos\\Studying-C-Sharp-and-Unity\\CSharp.csproj",
         "packagesPath": "C:\\Users\\Park\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Park\\Source\\Repos\\Studying-C-Sharp-and-Unity\\obj\\",
+        "outputPath": "C:\\Users\\Park\\source\\repos\\Studying-C-Sharp-and-Unity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Park\\AppData\\Roaming\\NuGet\\NuGet.Config",
